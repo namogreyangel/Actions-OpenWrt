@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: officialc526a
+name: officialc526a21.02
 
 on:
   repository_dispatch:
